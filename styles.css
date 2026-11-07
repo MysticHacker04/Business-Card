@@ -61,5 +61,5 @@ body {
 .contacts {
     display: flex;
     justify-content: center;
-    gap: 7px;
+    gap: 9px;
 }
