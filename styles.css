@@ -63,6 +63,8 @@ body {
     justify-content: center;
     gap: 7px;
 }
-.contacts h5 {
-    margin: 0;
+.contacts {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
 }
